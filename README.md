@@ -1,2 +1,2 @@
-# privacy
-A static web about education privacy and personal data in internet
+# PRIVACY
+A static web about education privacy and secure personal data in internet
